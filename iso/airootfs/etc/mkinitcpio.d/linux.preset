@@ -1,4 +1,4 @@
-# mkinitcpio preset file for the 'linux' package on archiso
+# mkinitcpio preset file for the 'linux-lts' package on parch
 
 PRESETS=('archiso')
 
